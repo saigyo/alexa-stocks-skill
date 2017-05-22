@@ -1,0 +1,27 @@
+{
+  "name": "alexa-stocks-skill",
+  "version": "0.0.1",
+  "description": "Alexa skill to get stock prices in German.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saigyo/alexa-stocks-skill.git"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "stocks"
+  ],
+  "author": "Markus Ackermann",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/saigyo/alexa-stocks-skill/issues"
+  },
+  "homepage": "https://github.com/saigyo/alexa-stocks-skill#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}

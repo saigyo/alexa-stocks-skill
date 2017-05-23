@@ -1,0 +1,15 @@
+StocksIntent sag mir den aktuellen Kurs für {Stock}
+StocksIntent welchen Kurs hat {Stock}
+StocksIntent welchen Kurs hat die {Stock}
+StocksIntent welchen Kurs hat die {Stock} Aktie
+StocksIntent was ist der aktuelle Kurs von {Stock}
+StocksIntent was ist der aktuelle Kurs der {Stock}
+StocksIntent was ist der aktuelle Kurs der {Stock} Aktie
+StocksIntent welchen Aktienkurs hat {Stock}
+StocksIntent welchen Aktienkurs hat die {Stock}
+StocksIntent sag mir den Aktienkurs von {Stock}
+StocksIntent sag mir den Aktienkurs der {Stock}
+StocksIntent zu welchem Kurs ist die {Stock} notiert
+StocksIntent für {Stock}
+StocksIntent nach {Stock}
+StocksIntent der {Stock} Aktie
